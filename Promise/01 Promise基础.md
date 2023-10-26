@@ -102,7 +102,7 @@ sendMessage(
 
 # Promise规范
 
-Promise是一套==专门处理异步场景的规范==，它能==有效的避免回调地狱的产生==，==使异步代码更加清晰、简洁、统一==
+Promise是一套 **专门处理异步场景的规范**，它能 **有效的避免回调地狱的产生** ，使 **异步代码更加清晰、简洁、统一**
 
 这套规范最早诞生于前端社区，规范名称为[Promise A+](https://promisesaplus.com/)
 
@@ -114,7 +114,7 @@ Promise A+ 规定：
 
    <img src="http://mdrs.yuanjin.tech/img/20210618154556.png" alt="image-20210618154556558" style="zoom:50%;" />
 
-2. 每个任务对象，都应该有==两个阶段、三个状态==
+2. 每个任务对象，都应该有 **两个阶段、三个状态**
 
    <img src="http://mdrs.yuanjin.tech/img/20210618155145.png" alt="image-20210618155145355" style="zoom:50%;" />
 
